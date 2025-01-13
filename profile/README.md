@@ -7,3 +7,8 @@ Key features:
 - Team Collaboration: Share accounts, assign leads.
 - Inbox Zero for Twitter: Clean and organized inbox to X.
 - [Automated Twitter Outreach at Scale](https://tweetdm.com/campaigns): Send personalized messages and follow-ups.
+
+
+[Signup on TweetDM](https://tweetdm.com/auth/login)
+
+[Install TweetDM Chrome Extension](https://chromewebstore.google.com/detail/tweetdm/manipndiogdfeenejomojogbbcbenioe)
